@@ -21,7 +21,7 @@
 <a href="https://instagram.com/neumang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neumang" height="30" width="40" /></a>
 <a href="https://medium.com/@gneuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gneuman" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/neumang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neumang" height="30" width="40" /></a>
-<a href="/https://gabrielneuman.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gabrielneuman.com/feed" height="30" width="40" /></a>
+<a href="https://gabrielneuman.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gabrielneuman.com/feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Me puedes apoyar en:</h3>
