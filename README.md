@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Soy Gabriel Neuman</h1>
 <h3 align="center">Un nuevo aficionado al NoCode de from México</h3>
 
-- 🔭 Estoy trabajando en un proyecto llamado [NoCode Gabo](www.nocodegabo.com)
+- 🔭 Estoy trabajando en un proyecto llamado [NoCode Gabo](https://www.nocodegabo.com)
 
 - 🌱 Actualmente estoy aprendiendo algo de **JavaScript y CSS**
 
-- 🎙️ Tengo un Podcast llamado [Growth Tactics](www.growthtacticspodcast.com)
+- 🎙️ Tengo un Podcast llamado [Growth Tactics](https://www.growthtacticspodcast.com)
 
-- 🤝 Estoy buscando ayuda para crear [Fondeadores](www.fondeadores.com)
+- 🤝 Estoy buscando ayuda para crear [Fondeadores](https://www.fondeadores.com)
 
 - 📝 Normalmente publico artículos sobre lo que voy aprendiendo en [https://www.gabrielneuman.com](https://www.gabrielneuman.com)
 
