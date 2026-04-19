@@ -1,28 +1,60 @@
-<h1 align="center">Hola 👋, Soy Gabriel Neuman</h1>
-<h3 align="center">Un nuevo aficionado al NoCode de from México</h3>
+# Hola, soy Gabriel Neuman 👋
 
-- 🔭 Estoy trabajando en un proyecto llamado [NoCode Gabo](https://www.nocodegabo.com)
+**Chief Automation Officer externo.** Ayudo a founders de LATAM a recuperar 10-20 horas semanales
+con automatización NoCode + agentes IA — sin contratar más gente.
 
-- 🌱 Actualmente estoy aprendiendo algo de **JavaScript y CSS**
+🏢 **GNB Labs** · México · Desde 2006
+📊 **121,000+ procesos automatizados** · **225,000+ horas recuperadas** · **100+ empresas**
 
-- 🎙️ Tengo un Podcast llamado [Growth Tactics](https://www.growthtacticspodcast.com)
+---
 
-- 🤝 Estoy buscando ayuda para crear [Fondeadores](https://www.fondeadores.com)
+### 🎯 ¿Tu negocio pierde 10+ horas semanales en procesos manuales?
 
-- 📝 Normalmente publico artículos sobre lo que voy aprendiendo en [https://www.gabrielneuman.com](https://www.gabrielneuman.com)
+**Agenda un diagnóstico gratuito de 30 minutos.**
+Salimos con un plan concreto, tomes o no el siguiente paso conmigo.
 
-- 💬 Tienes una duda de **Automatización o NoCode**
+📅 **[gabrielneuman.com/contacto](https://gabrielneuman.com/contacto)** ← empieza aquí
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://twitter.com/gneuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gneuman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/gabrielneuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/gabrielneuman" height="30" width="40" /></a>
-<a href="https://fb.com/gabrielneumanbonder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielneumanbonder" height="30" width="40" /></a>
-<a href="https://instagram.com/neumang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neumang" height="30" width="40" /></a>
-<a href="https://medium.com/@gneuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gneuman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/neumang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neumang" height="30" width="40" /></a>
-<a href="https://gabrielneuman.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gabrielneuman.com/feed" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Me puedes apoyar en:</h3>
-<p><a href="https://www.buymeacoffee.com/gneuman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gneuman" /></a></p><br><br>
+### 📡 Estoy construyendo: Radar de Negocio
+
+**Cada mañana, todo lo importante de tu empresa en un correo.**
+
+Radar conecta tu calendario, equipo, finanzas, pipeline y llamadas de Zoom, y te entrega un
+briefing diario con análisis IA. Un radar distinto por rol: el CEO no ve lo mismo que el CTO.
+Empiezas el día sabiendo exactamente qué importa y qué necesita atención — sin abrir 7 tabs.
+
+**Integraciones:** Google Calendar · Linear · Stripe · Zoho · Zoom · Gmail
+**Estado:** En desarrollo · Acceso anticipado abierto
+
+🔗 **[gabrielneuman.com/radar](https://gabrielneuman.com/radar)** — pide tu acceso anticipado
+
+---
+
+### 🔧 Con qué trabajo todos los días
+
+**Automatización y NoCode:** n8n · Make · Zapier · Airtable
+**IA aplicada:** Claude (API + Code + Agent SDK) · OpenAI · OpenRouter
+**Stack de producto:** Next.js · MongoDB · Vercel · TypeScript
+**Orquestación:** MCPs · Webhooks · APIs · RAG con contexto real de negocio
+
+No llegué al NoCode desde el marketing. Llegué desde adentro del código.
+Eso me permite construir sistemas que un consultor "puro marketing" no puede, y explicarlos en
+términos de negocio que un dev "puro técnico" no explica.
+
+---
+
+### 🚀 Más recursos
+
+- 🌐 **[gabrielneuman.com](https://gabrielneuman.com)** — Mi hub de marca
+- 🤖 **[Claudia](https://gabrielneuman.com/claudia)** — Agente IA que responde como si fuera yo
+- 🎓 **[Mi Primer Empleado AI](https://gabrielneuman.com/mi-primer-empleado-ai)** — Curso para founders
+- 📖 **[Blog](https://gabrielneuman.com/blog)** — Tutoriales, casos y tendencias
+- 💼 **[LinkedIn](https://linkedin.com/in/gneuman)**
+
+---
+
+> _Sin teoría. Estrategias que se pueden implementar hoy._
+
+⭐ Si algo de mis repos te sirve, déjame una estrella — me ayuda a saber qué contenido construir.
