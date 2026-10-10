@@ -1,60 +1,14 @@
 # Hola, soy Gabriel Neuman 👋
 
-**Chief Automation Officer externo.** Ayudo a founders de LATAM a recuperar 10-20 horas semanales
-con automatización NoCode + agentes IA — sin contratar más gente.
+## Director de IA fraccional en la Ciudad de México. Ayudo a empresas pequeñas a trabajar como grandes: equipos chicos, resultados grandes.
 
-🏢 **GNB Labs** · México · Desde 2006
-📊 **121,000+ procesos automatizados** · **225,000+ horas recuperadas** · **100+ empresas**
+Decido con el dueño qué se automatiza, en qué orden y cómo se mide, y dirijo a quien lo construye hasta que su equipo lo opera solo. Construye su propia gente o [Neuman Solutions](https://www.neumansolutions.com/), mi agencia. Automatizo procesos desde 2006, cuando fundé Teknobuilding para hacer casas inteligentes; soy ingeniero mecatrónico del Tec de Monterrey.
 
----
+Cada viernes escribo y grabo [El CEO agéntico](https://gabrielneuman.com/newsletter/), una táctica de IA para dueños de empresas. Aquí dejo público el código que uso, en español, para que lo copies:
 
-### 🎯 ¿Tu negocio pierde 10+ horas semanales en procesos manuales?
+- [**gnb-plugins**](https://github.com/gneuman/gnb-plugins): plugins de Claude Code en español que se instalan con dos comandos.
+- [**bandeja-cero**](https://github.com/gneuman/bandeja-cero): tría tu bandeja y te deja borradores en la voz de tu empresa. Nunca envía nada por ti.
+- [**de-idea-a-plan**](https://github.com/gneuman/de-idea-a-plan): de una idea difusa a un plan por etapas para construir tu app.
+- [**fabrica-ogimage**](https://github.com/gneuman/fabrica-ogimage): la imagen que sale al compartir un link, en español.
 
-**Agenda un diagnóstico gratuito de 30 minutos.**
-Salimos con un plan concreto, tomes o no el siguiente paso conmigo.
-
-📅 **[gabrielneuman.com/contacto](https://gabrielneuman.com/contacto)** ← empieza aquí
-
----
-
-### 📡 Estoy construyendo: Radar de Negocio
-
-**Cada mañana, todo lo importante de tu empresa en un correo.**
-
-Radar conecta tu calendario, equipo, finanzas, pipeline y llamadas de Zoom, y te entrega un
-briefing diario con análisis IA. Un radar distinto por rol: el CEO no ve lo mismo que el CTO.
-Empiezas el día sabiendo exactamente qué importa y qué necesita atención — sin abrir 7 tabs.
-
-**Integraciones:** Google Calendar · Linear · Stripe · Zoho · Zoom · Gmail
-**Estado:** En desarrollo · Acceso anticipado abierto
-
-🔗 **[gabrielneuman.com/radar](https://gabrielneuman.com/radar)** — pide tu acceso anticipado
-
----
-
-### 🔧 Con qué trabajo todos los días
-
-**Automatización y NoCode:** n8n · Make · Zapier · Airtable
-**IA aplicada:** Claude (API + Code + Agent SDK) · OpenAI · OpenRouter
-**Stack de producto:** Next.js · MongoDB · Vercel · TypeScript
-**Orquestación:** MCPs · Webhooks · APIs · RAG con contexto real de negocio
-
-No llegué al NoCode desde el marketing. Llegué desde adentro del código.
-Eso me permite construir sistemas que un consultor "puro marketing" no puede, y explicarlos en
-términos de negocio que un dev "puro técnico" no explica.
-
----
-
-### 🚀 Más recursos
-
-- 🌐 **[gabrielneuman.com](https://gabrielneuman.com)** — Mi hub de marca
-- 🤖 **[Claudia](https://gabrielneuman.com/claudia)** — Agente IA que responde como si fuera yo
-- 🎓 **[Mi Primer Empleado AI](https://gabrielneuman.com/mi-primer-empleado-ai)** — Curso para founders
-- 📖 **[Blog](https://gabrielneuman.com/blog)** — Tutoriales, casos y tendencias
-- 💼 **[LinkedIn](https://linkedin.com/in/gneuman)**
-
----
-
-> _Sin teoría. Estrategias que se pueden implementar hoy._
-
-⭐ Si algo de mis repos te sirve, déjame una estrella — me ayuda a saber qué contenido construir.
+Si nunca has usado Claude Code, empieza con la [guía gratis para instalarlo](https://gabrielneuman.com/como-instalar-claude-code/). Todo lo demás vive en [gabrielneuman.com](https://gabrielneuman.com/). ¡Ojalá te sirva!
